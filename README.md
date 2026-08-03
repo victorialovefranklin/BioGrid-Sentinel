@@ -34,7 +34,7 @@ All scenarios, reports, maps, and recommendations are simulated for research and
 
 Launch the application:
 
-**https://YOURUSERNAME.github.io/BioGrid-Sentinel/**
+**[https://YOURUSERNAME.github.io/BioGrid-Sentinel/](https://victorialovefranklin.github.io/BioGrid-Sentinel/)**
 
 ## Companion Paper
 
